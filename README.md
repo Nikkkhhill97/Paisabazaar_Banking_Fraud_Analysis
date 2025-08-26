@@ -1,2 +1,5 @@
-# Data-Visualization-Project
-Data visualization project using Tableau and Python (Matplotlib, Pandas) to create dashboards and visual reports for better decision-making.
+# Data Visualization Project  
+Created interactive dashboards and visual reports using Tableau & Python.  
+
+🚀 Tech: Tableau, Python (Matplotlib/Pandas)  
+📌 Status: Initial version – files coming soon
