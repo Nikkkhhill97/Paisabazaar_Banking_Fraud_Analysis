@@ -5,7 +5,7 @@ This project analyzes customer financial data to identify the key drivers behind
 
 ### **Key Highlights**
 * **Data Wrangling:** Handled missing values and treated outliers using the IQR method.
-* **EDA:** Created 10 high-impact visualizations covering Univariate, Bivariate, and Multivariate analysis.
+* **EDA:** Created 12 high-impact visualizations covering Univariate, Bivariate, and Multivariate analysis.
 * **Business Insights:** Identified that payment behavior and debt-to-income ratios are more critical than raw salary.
 
 ### **Tech Stack**
